@@ -1,2 +1,2 @@
 Esta es una historia:
-Crea un repositorio de Git y haz tu primer commit
+Creando mi repositorio de Git y realizando mi primer commit.

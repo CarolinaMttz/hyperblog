@@ -1,7 +1,0 @@
-Esta es una historia:
-
-Creando mi repositorio de Git y realizando mi primer commit.
-
-Analizando cambios en los archivos de mi proyecto con Git.
-
-Nueva línea de analizando cambios en los archivos.
